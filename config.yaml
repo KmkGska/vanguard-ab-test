@@ -1,8 +1,12 @@
-input_data:
-  marathon_data: "../data/raw/Berlin_Marathon_data_1974_2019.csv"
-  marathon_winners: "../data/raw/berlin_marathon_winners_1974_2024.csv"
+paths:
+  data_csv: "./data/raw_data_csv"
+  data_txt: "./data/raw_data_txt"
+  data_clean: "./data/clean"
 
-output_data:
-  cleaned_data: "../data/clean/cleaned_marathon.csv"
-  cleaned_winners: "../data/clean/cleaned_marathon_winners.csv"
+files:
+  experiment: "df_final_experiment_clients.txt"
+  demo: "df_final_demo.txt"
+  web1: "df_final_web_data_pt_1.txt"
+  web2: "df_final_web_data_pt_2.txt"
+
 
