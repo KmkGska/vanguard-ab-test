@@ -1,5 +1,11 @@
-input_data:
-  file: "../data/raw/Berlin_Marathon_data_1974_2019.csv"
+data:
+  raw:
+    demo: "../data/raw_data_txt/df_final_demo.txt"
+    clients: "../data/raw_data_txt/df_final_experiment_clients.txt"
+    web1: "../data/raw_data_txt/df_final_web_data_pt_1.txt"
+    web2: "../data/raw_data_txt/df_final_web_data_pt_2.txt"
+  clean:
+    df_full: "../data/clean_data_txt/df_full.pkl"
+    
+      
 
-output_data:
-  file: "../data/clean/cleaned_data_file.csv"
