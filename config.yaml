@@ -5,9 +5,7 @@ data:
     web1: "../data/raw_data_txt/df_final_web_data_pt_1.txt"
     web2: "../data/raw_data_txt/df_final_web_data_pt_2.txt"
   clean:
-    demo: "../data/clean_data_txt/df_final_demo_clean.txt"
-    clients: "../data/clean_data_txt/df_final_experiment_clients_clean.txt"
-    web1: "../data/clean_data_txt/df_final_web_data_pt_1_clean.txt"
-    web2: "../data/clean_data_txt/df_final_web_data_pt_2_clean.txt"
+    df_full: "../data/clean_data_txt/df_full.pkl"
+    
       
 
