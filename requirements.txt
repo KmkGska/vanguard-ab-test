@@ -4,7 +4,4 @@ scipy
 matplotlib
 datetime
 seaborn
-yaml
 statsmodels
-os
-sys
