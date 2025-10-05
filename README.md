@@ -75,9 +75,9 @@ As data analysts, our role is to:
 - [Kanban Board (Trello)](your-link-here)  
 - [Google Slides Presentation](your-link-here)  
 
---- increased by 5%.
 
 
-## **Deliverables**
+
+
 
 
