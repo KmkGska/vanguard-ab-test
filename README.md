@@ -85,8 +85,12 @@ Snacks Weekly on Data Science Podcast - Vanguard A/B testing vs Multi-armed band
 ---
 
 ## 🔗 Useful Links  
-- [Kanban Board (Trello)](your-link-here)  
-- [Google Slides Presentation](your-link-here)  
+
+- [Kanban Board (Trello)]
+https://trello.com/b/ZJyhDil2/project-2
+
+- [Google Slides Presentation]:
+https://docs.google.com/presentation/d/1DCRTmxcjTngXTsZA_19D8t6RzMZyaBRoeajUfCeMsb8/edit?usp=sharing  
 
 
 
