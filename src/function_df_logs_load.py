@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 import pandas as pd
 
@@ -12,7 +12,6 @@ def clean_df_logs(df: pd.DataFrame) -> pd.DataFrame:
     # Drop duplicate rows
     df = df.drop_duplicates()
 
-=======
 
 import pandas as pd
 
@@ -26,5 +25,5 @@ def clean_df_logs(df: pd.DataFrame) -> pd.DataFrame:
     # Drop duplicate rows
     df = df.drop_duplicates()
 
->>>>>>> b22304e96210882adf1244408d163e0c5c903491
+
     return df
