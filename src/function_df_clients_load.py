@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import pandas as pd
 
 def load_and_clean_df_clients(filepath: str) -> pd.DataFrame:
@@ -38,7 +37,6 @@ def load_and_clean_df_clients(filepath: str) -> pd.DataFrame:
         'logons_6_months': 'int64'
     })
 
-=======
 import pandas as pd
 
 def load_and_clean_df_clients(filepath: str) -> pd.DataFrame:
@@ -78,5 +76,4 @@ def load_and_clean_df_clients(filepath: str) -> pd.DataFrame:
         'logons_6_months': 'int64'
     })
 
->>>>>>> b22304e96210882adf1244408d163e0c5c903491
     return df  # This is df_clients
