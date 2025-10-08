@@ -1,0 +1,43 @@
+Metric,Variation,Value,Unit,Description
+Completion Rate,Control,49.97,%,Percentage of Control group users who completed the process
+Completion Rate,Test,52.57,%,Percentage of Test group users who completed the process
+Strict Completion Rate,Control,49.78,%,Percentage of Control group users who followed strict funnel order and completed it
+Strict Completion Rate,Test,52.43,%,Percentage of Test group users who followed strict funnel order and completed it
+Completion Rate Lift,Test vs Control,2.65,pp,Improvement in completion rate for Test compared to Control
+Step_Back_Errors,Control,5521.0,Count,Total backward step errors in Control group
+Step_Back_Errors,Test,8138.0,Count,Total backward step errors in Test group
+Step_Repeat_Errors,Control,7298.0,Count,Total repeated step errors in Control group
+Step_Repeat_Errors,Test,11139.0,Count,Total repeated step errors in Test group
+Mean_Step_Time_start,Control,57.46,Seconds,Average duration at start step for Control group
+Mean_Step_Time_start,Test,51.39,Seconds,Average duration at start step for Test group
+Mean_Step_Time_step_1,Control,46.56,Seconds,Average duration at Step 1 for Control group
+Mean_Step_Time_step_1,Test,56.53,Seconds,Average duration at Step 1 for Test group
+Mean_Step_Time_step_2,Control,94.35,Seconds,Average duration at Step 2 for Control group
+Mean_Step_Time_step_2,Test,92.32,Seconds,Average duration at Step 2 for Test group
+Mean_Step_Time_step_3,Control,129.58,Seconds,Average duration at Step 3 for Control group
+Mean_Step_Time_step_3,Test,111.67,Seconds,Average duration at Step 3 for Test group
+Mean_Completion_Time,Control,327.95,Seconds,Total average time (sum of steps) to complete the process
+Mean_Completion_Time,Test,311.91,Seconds,Total average time (sum of steps) to complete the process
+Calls_6M_Mean,Control,2.1,count,Average number of calls in 6 months per user (Control group)
+Calls_6M_Mean,Test,2.4,count,Average number of calls in 6 months per user (Test group)
+Logons_6M_Mean,Control,5.3,count,Average number of logons in 6 months per user (Control group)
+Logons_6M_Mean,Test,6.0,count,Average number of logons in 6 months per user (Test group)
+Strict_Lift_CI,Test vs Control,1.78 – 3.44,%,95% confidence interval for the strict completion rate lift
+Calls_6M_Mean,Control,2.1,count,Average number of calls in 6 months per user (Control group)
+Calls_6M_Mean,Test,2.4,count,Average number of calls in 6 months per user (Test group)
+Logons_6M_Mean,Control,5.3,count,Average number of logons in 6 months per user (Control group)
+Logons_6M_Mean,Test,6.0,count,Average number of logons in 6 months per user (Test group)
+Strict_Lift_CI,Test vs Control,1.78 – 3.44,%,95% confidence interval for the strict completion rate lift
+p_value,Test vs Control,0.0015,,Two-tailed p-value from proportion test confirming statistical significance
+Calls_6M_Mean,Control,2.1,count,Average number of calls in 6 months per user (Control group)
+Calls_6M_Mean,Test,2.4,count,Average number of calls in 6 months per user (Test group)
+Logons_6M_Mean,Control,5.3,count,Average number of logons in 6 months per user (Control group)
+Logons_6M_Mean,Test,6.0,count,Average number of logons in 6 months per user (Test group)
+Strict_Lift_CI,Test vs Control,1.78 – 3.44,%,95% confidence interval for the strict completion rate lift
+p_value,Test vs Control,0.0015,,Two-tailed p-value from proportion test confirming statistical significance
+Calls_6M_Mean,Control,2.1,count,Average number of calls in 6 months per user (Control group)
+Calls_6M_Mean,Test,2.4,count,Average number of calls in 6 months per user (Test group)
+Logons_6M_Mean,Control,5.3,count,Average number of logons in 6 months per user (Control group)
+Logons_6M_Mean,Test,6.0,count,Average number of logons in 6 months per user (Test group)
+Strict_Lift_CI,Test vs Control,1.78 – 3.44,%,95% confidence interval for the strict completion rate lift
+p_value,Test vs Control,0.0015,,Two-tailed p-value from proportion test confirming statistical significance
